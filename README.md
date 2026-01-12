@@ -1,7 +1,7 @@
 
-# FastAPI Demo - Products API
+# Product_Inventory
 
-A simple FastAPI application demonstrating GET and POST endpoints for product management and inventory tracking.
+A simple FastAPI application for product management and inventory tracking.
 
 ## Features
 
